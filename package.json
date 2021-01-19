@@ -1,5 +1,6 @@
 {
   "name": "login-app",
+  "homepage": "https://ihealthlabs-dc.github.io/loginTest",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
